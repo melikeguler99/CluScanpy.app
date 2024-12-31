@@ -3,7 +3,7 @@
 
 # In[6]:
 
-!pip install scanpy
+pip install scanpy
 import streamlit as st
 import scanpy as sc
 import anndata
